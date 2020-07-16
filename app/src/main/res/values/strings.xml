@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Caculator</string>
+    <string name="txtA">A</string>
+    <string name="txtB">B</string>
+    <string name="editA" />
+    <string name="editB" />
+    <string name="txtHt" />
+    <string name="btnExit">Exit</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnCal">Cal</string>
+    <string name="rdbCong">+</string>
+    <string name="rbdTru">-</string>
+    <string name="rbdNhan">*</string>
+    <string name="rbdChia">/</string>
+    <string name="btn1">1</string>
+    <string name="btn3">3</string>
+    <string name="btn2">2</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="txtR">" Result"</string>
+    <string name="btn0">0</string>
+    <string name="btnDelete">C</string>
+</resources>
